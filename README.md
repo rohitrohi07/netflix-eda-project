@@ -18,7 +18,7 @@ The analysis includes data cleaning, exploratory analysis, KPI calculation, and 
 - Analyze content ratings.
 - Examine content trends by release year.
 - Identify the countries with the highest representation.
-- Analyze popular genres.
+- Analyze popular countries.
 - Compare Movies and TV Shows across different categories.
 - Extract meaningful insights from the data.
 

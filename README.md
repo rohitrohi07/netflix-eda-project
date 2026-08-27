@@ -1,5 +1,5 @@
 # netflix-eda-project
-Exploratory Data Analysis of Netflix Movies and TV Shows using Python, Pandas 
+Exploratory Data Analysis of Netflix Movies and TV Shows using Python, Pandas  and Matplotlib.
 # Netflix Movies and TV Shows — Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
@@ -81,3 +81,15 @@ netflix-eda-project/
 ├── Netflix_EDA_project.ipynb
 ├── netflix_titles.csv
 └── README.md
+
+## 📌 Conclusion
+
+This project demonstrates the use of Python, Pandas, and Matplotlib to perform exploratory data analysis on a real-world Netflix dataset.
+
+The analysis provides insights into Netflix's content distribution, ratings, release trends, countries, and genres while demonstrating practical data cleaning, analysis, and visualization skills.
+
+## 👤 Author
+
+**Rohit**
+
+Aspiring Data Analyst

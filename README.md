@@ -81,5 +81,17 @@ netflix-eda-project/
 ├── Netflix_EDA_project.ipynb
 ├── netflix_titles.csv
 └── README.md
+```
 
+## 📌 Conclusion
+
+This project demonstrates the use of Python, Pandas, and Matplotlib to perform exploratory data analysis on a real-world Netflix dataset.
+
+The analysis provides insights into Netflix's content distribution, ratings, release trends, and countries while demonstrating practical data cleaning, analysis, and visualization skills.
+
+## 👤 Author
+
+**Rohit**
+
+Aspiring Data Analyst
 
